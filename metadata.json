@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Montacargas Industrial 3D",
+  "description": "Simulador educativo interactivo 3D de montacargas de combustión de hombre sentado con sistema hidráulico, física de colisiones, inspección 360° y capacitación técnica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
